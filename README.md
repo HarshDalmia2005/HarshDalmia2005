@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer and coder from India</h3>
 
 <p align="center">
-  <img src="https://anupam-deploys.netlify.app/coder.gif" alt="coding gif" width="400"/>
+  <img src="https://anupam-deploys.netlify.app/coder.gif" alt="coding gif" width="900"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshdalmia2005&label=Profile%20views&color=0e75b6&style=flat" alt="harshdalmia2005" /> </p>
